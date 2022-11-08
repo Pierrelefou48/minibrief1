@@ -1,0 +1,34 @@
+h1
+    {   text-align: center;
+        color: blueviolet
+    }
+body 
+    {   background-color: lightsteelblue;
+    }
+p
+    {   font-family: Arial, Helvetica, sans-serif;
+        font-size:normal;
+        text-align: center;
+        color:rgba(7, 7, 75, 0.582)
+    }
+img
+    {   display:block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+main
+    {   background: lightsteelblue;
+        width: 90%;
+        min-height: 180px;
+        margin: 10px auto;
+        padding: 15px;
+        border-radius: 15px;
+        box-shadow: 0 2px 12px 5px cornflowerblue;
+    }
+li
+    {    text-align: center;
+    }
+div
+    {   text-align: center;
+    }
+  
